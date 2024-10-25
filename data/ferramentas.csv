@@ -1,0 +1,49 @@
+tituloProduto,preco,descricao,imgProduto,catProduto,classProduto,exibirHome
+Furadeira ElÃ©trica,150,Furadeira elÃ©trica com mandril de 13mm e 600W de potÃªncia.,c:\images\Furadeira ElÃ©trica.jpg,Ferramentas Manuais,Novo,True
+Parafusadeira,100,Parafusadeira portÃ¡til ideal para montagem de mÃ³veis.,c:\images\Parafusadeira.jpg,Ferramentas Manuais,Novo,True
+Serra Circular,200,"Serra circular com lÃ¢mina de 7 polegadas, ideal para cortes precisos.",c:\images\Serra Circular.jpg,Ferramentas ElÃ©tricas,Novo,True
+Lixadeira,75,Lixadeira orbital para acabamentos em madeira.,c:\images\Lixadeira.jpg,Ferramentas ElÃ©tricas,Novo,True
+Martelo,50,Martelo de borracha com cabo ergonÃ´mico.,c:\images\Martelo.jpg,Ferramentas Manuais,Novo,True
+Alicate,25,Alicate universal de 8 polegadas.,c:\images\Alicate.jpg,Ferramentas Manuais,Novo,True
+Chave de Fenda,30,Chave de fenda com cabo antideslizante.,c:\images\Chave de Fenda.jpg,Ferramentas Manuais,Novo,True
+Serra Tico-Tico,250,Serra tico-tico com velocidade variÃ¡vel.,c:\images\Serra Tico-Tico.jpg,Ferramentas ElÃ©tricas,Novo,True
+Furadeira de Impacto,300,Furadeira de impacto com 800W e 2 velocidades.,c:\images\Furadeira de Impacto.jpg,Ferramentas ElÃ©tricas,Novo,True
+Plaina,90,Plaina elÃ©trica com largura de 82mm.,c:\images\Plaina.jpg,Ferramentas ElÃ©tricas,Novo,True
+Trena,15,Trena de 5 metros com mecanismo de retorno rÃ¡pido.,c:\images\Trena.jpg,Ferramentas Manuais,Novo,True
+NÃ­vel a Laser,45,NÃ­vel a laser com alcance de 20 metros.,c:\images\NÃ­vel a Laser.jpg,Ferramentas Manuais,Novo,True
+Broca para Madeira,20,"Broca para madeira, 5 peÃ§as.",c:\images\Broca para Madeira.jpg,Ferramentas Manuais,Novo,True
+Broca para Metal,20,"Broca para metal, 5 peÃ§as.",c:\images\Broca para Metal.jpg,Ferramentas Manuais,Novo,True
+Serra de Arco,60,Serra de arco com lÃ¢mina de 12 polegadas.,c:\images\Serra de Arco.jpg,Ferramentas Manuais,Novo,True
+Cortador de Grama,80,"Cortador de grama manual, leve e fÃ¡cil de usar.",c:\images\Cortador de Grama.jpg,Ferramentas ElÃ©tricas,Novo,True
+Escada DobrÃ¡vel,70,"Escada dobrÃ¡vel em alumÃ­nio, 3 degraus.",c:\images\Escada DobrÃ¡vel.jpg,Ferramentas Manuais,Novo,True
+Chave Inglesa,120,Chave inglesa ajustÃ¡vel de 12 polegadas.,c:\images\Chave Inglesa.jpg,Ferramentas Manuais,Novo,True
+Furadeira de Coluna,90,Furadeira de coluna com velocidade variÃ¡vel.,c:\images\Furadeira de Coluna.jpg,Ferramentas ElÃ©tricas,Novo,True
+Parafuso de Madeira,350,"Parafuso de madeira, 50 peÃ§as.",c:\images\Parafuso de Madeira.jpg,Ferramentas ElÃ©tricas,Novo,True
+Parafuso MetÃ¡lico,5,"Parafuso metÃ¡lico, 50 peÃ§as.",c:\images\Parafuso MetÃ¡lico.jpg,Ferramentas Manuais,Novo,True
+Tico-Tico ElÃ©trico,10,Tico-tico elÃ©trico com lÃ¢mina de reposiÃ§Ã£o.,c:\images\Tico-Tico ElÃ©trico.jpg,Ferramentas Manuais,Novo,True
+Cortadora de Azulejos,120,"Cortadora de azulejos, ideal para reformas.",c:\images\Cortadora de Azulejos.jpg,Ferramentas ElÃ©tricas,Novo,True
+Lima,100,"Lima de metal, 6 polegadas.",c:\images\Lima.jpg,Ferramentas ElÃ©tricas,Novo,True
+Serra Sabre,35,Serra sabre com lÃ¢minas intercambiÃ¡veis.,c:\images\Serra Sabre.jpg,Ferramentas Manuais,Novo,True
+Bico de Luz,45,Bico de luz LED com baixo consumo.,c:\images\Bico de Luz.jpg,Ferramentas Manuais,Novo,True
+Aspirador de PÃ³,40,"Aspirador de pÃ³ portÃ¡til, ideal para limpeza rÃ¡pida.",c:\images\Aspirador de PÃ³.jpg,Ferramentas ElÃ©tricas,Novo,True
+Mala de Ferramentas,55,Mala de ferramentas com 150 peÃ§as.,c:\images\Mala de Ferramentas.jpg,Ferramentas ElÃ©tricas,Novo,True
+Guilhotina,120,Guilhotina manual para papel e cartolina.,c:\images\Guilhotina.jpg,Ferramentas Manuais,Novo,True
+Bomba de VÃ¡cuo,200,Bomba de vÃ¡cuo para uso domÃ©stico.,c:\images\Bomba de VÃ¡cuo.jpg,Ferramentas Manuais,Novo,True
+Estilete,90,Estilete com lÃ¢minas de reposiÃ§Ã£o.,c:\images\Estilete.jpg,Ferramentas Manuais,Novo,True
+Chave Allen,70,"Chave Allen em conjunto, 10 peÃ§as.",c:\images\Chave Allen.jpg,Ferramentas Manuais,Novo,True
+Rosqueadeira,85,Rosqueadeira para tubos de PVC.,c:\images\Rosqueadeira.jpg,Ferramentas Manuais,Novo,True
+Saca-rolhas,100,Saca-rolhas manual com cortador de lacre.,c:\images\Saca-rolhas.jpg,Ferramentas Manuais,Novo,True
+Desempenadeira,60,Desempenadeira de aÃ§o inox.,c:\images\Desempenadeira.jpg,Ferramentas Manuais,Novo,True
+Rebitador,75,Rebitador manual para chapas de metal.,c:\images\Rebitador.jpg,Ferramentas ElÃ©tricas,Novo,True
+Estante de Ferramentas,90,"Estante de ferramentas em metal, 3 prateleiras.",c:\images\Estante de Ferramentas.jpg,Ferramentas ElÃ©tricas,Novo,True
+Cinta MÃ©trica,130,Cinta mÃ©trica de 10 metros com clipe para bolso.,c:\images\Cinta MÃ©trica.jpg,Ferramentas ElÃ©tricas,Novo,True
+Mecanismo de Fechadura,150,Mecanismo de fechadura de alta seguranÃ§a.,c:\images\Mecanismo de Fechadura.jpg,Ferramentas ElÃ©tricas,Novo,True
+Pistola de Cola Quente,95,Pistola de cola quente com 20 bastÃµes inclusos.,c:\images\Pistola de Cola Quente.jpg,Ferramentas Manuais,Novo,True
+RÃ©gua de AlumÃ­nio,15,"RÃ©gua de alumÃ­nio, 1 metro.",c:\images\RÃ©gua de AlumÃ­nio.jpg,Ferramentas Manuais,Novo,True
+Cortador de Papel,25,Cortador de papel com lÃ¢mina afiada.,c:\images\Cortador de Papel.jpg,Ferramentas Manuais,Novo,True
+Caixa de Ferramentas,30,Caixa de ferramentas com divisÃ³rias.,c:\images\Caixa de Ferramentas.jpg,Ferramentas Manuais,Novo,True
+Martelo de Borracha,35,"Martelo de borracha, ideal para montagem de mÃ³veis.",c:\images\Martelo de Borracha.jpg,Ferramentas Manuais,Novo,True
+Parafuso,15,"Parafuso em aÃ§o, 100 peÃ§as.",c:\images\Parafuso.jpg,Ferramentas Manuais,Novo,True
+Prego,20,"Prego em aÃ§o, 100 peÃ§as.",c:\images\Prego.jpg,Ferramentas Manuais,Novo,True
+Serra de Madeira,100,Serra de madeira com lÃ¢mina de 18 polegadas.,c:\images\Serra de Madeira.jpg,Ferramentas ElÃ©tricas,Novo,True
+Corta Cabos,45,Corta Cabos.,c:\images\Corta Cabos.jpg,Ferramentas ElÃ©tricas,Novo,True
